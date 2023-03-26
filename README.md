@@ -1,6 +1,30 @@
 # Logotipos
-Creación de logotipos TikTok y Netflix, mediante las herramientas de HTML y CSS.
 
-[![tiktok.jpg](https://i.postimg.cc/rpfwYVMb/tiktok.jpg)](https://postimg.cc/4KhGYTKb)
+Creación de logotipos de empresas como [TikTok](https://www.tiktok.com/) y [Netflix](https://www.netflix.com/es/)
 
-[![titos.jpg](https://i.postimg.cc/d1Dtbb00/titos.jpg)](https://postimg.cc/BL90DwHW)
+## Construido con 🛠️
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+
+## Autores ✒️
+
+
+
+* **Samuel Bonet** - [samuelbonet](https://github.com/samuelbonet)
+ 
+
+## Licencia 📄
+
+Este proyecto es de uso libre y gratuito para cualquier usuario
+
+
+
+---
+⌨️ con ❤️ por [samuelbonet](https://github.com/samuelbonet) 😊
+
+
+
+
+
+
